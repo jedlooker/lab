@@ -1,0 +1,7 @@
+body {
+    background-image:url(../images/image-name.jpg);
+    background-repeat: no-repeat; /* remove if you want to repeat */
+    background-position: top; /* bottom, right, left, center */
+    background-size: 100%;
+    background-color:#F00; /* Always specify a color */
+}
